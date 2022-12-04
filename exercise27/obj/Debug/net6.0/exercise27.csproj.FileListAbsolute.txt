@@ -1,0 +1,15 @@
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\bin\Debug\net6.0\exercise27.exe
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\bin\Debug\net6.0\exercise27.deps.json
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\bin\Debug\net6.0\exercise27.runtimeconfig.json
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\bin\Debug\net6.0\exercise27.dll
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\bin\Debug\net6.0\exercise27.pdb
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\obj\Debug\net6.0\exercise27.csproj.AssemblyReference.cache
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\obj\Debug\net6.0\exercise27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\obj\Debug\net6.0\exercise27.AssemblyInfoInputs.cache
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\obj\Debug\net6.0\exercise27.AssemblyInfo.cs
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\obj\Debug\net6.0\exercise27.csproj.CoreCompileInputs.cache
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\obj\Debug\net6.0\exercise27.dll
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\obj\Debug\net6.0\refint\exercise27.dll
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\obj\Debug\net6.0\exercise27.pdb
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\obj\Debug\net6.0\exercise27.genruntimeconfig.cache
+D:\Cloud\geekbrains\c#\seminar4dz\exercise27\obj\Debug\net6.0\ref\exercise27.dll
